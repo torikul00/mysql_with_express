@@ -1,0 +1,6 @@
+[
+{"role":"user", "content":"what is html?"},
+{"role":"assitance","content":"Html stand for Hyper Text Marup language"},
+{"role":"user", "content":"what is css?"},
+{"role":"assitance","content":"css stand casecasding style sheet"}
+]
